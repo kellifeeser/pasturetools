@@ -1,0 +1,9 @@
+name: "*pasturetools*"
+output_dir: docs
+navbar:
+  title: "*pasturetools* Website"
+  left:
+    - text: "Home"
+      href: docs/index.html
+    - text: "About"
+      href: docs/about.html

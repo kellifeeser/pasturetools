@@ -6,3 +6,6 @@
 .httr-oauth
 .DS_Store
 .quarto
+
+ignore_charles/
+R/indexing_old_R_Rmd_files/
