@@ -1,4 +1,4 @@
-name: "*pasturetools*"
+name: "pasturetools"
 output_dir: docs
 navbar:
   title: "*pasturetools* Website"

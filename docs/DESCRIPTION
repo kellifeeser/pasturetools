@@ -1,0 +1,23 @@
+Package: pasturetools
+Title: Patterns Across Scales: Targeting Uncharacterized Relational
+    Embeddings Through Ordination Of Latent Structures
+Version: 0.0.1
+Authors@R: 
+    person("Kelli", "Feeser", , "kfeeser@lanl.gov", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-4144-0294"))
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+Depends: 
+    R (>= 3.5)
+Imports: 
+    dplyr,
+    stats,
+    vegan
+Suggests: 
+    rmarkdown,
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2

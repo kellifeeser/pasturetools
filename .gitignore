@@ -9,3 +9,8 @@
 
 ignore_charles/
 R/indexing_old_R_Rmd_files/
+
+# docs
+docs/man/
+docs/R/
+docs/tests/
