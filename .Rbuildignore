@@ -2,3 +2,7 @@
 ^pasturetools\.Rproj$
 ^\.Rproj\.user$
 ^README\.Rmd$
+^docs$
+^shiny$
+^ignore_charles$
+^R/indexing_old_R_Rmd_files$
